@@ -40,7 +40,7 @@ print("my webserver is running...")
 ```
 
 ## OUTPUT:
-![OUTPUT](./welcome.github.pdf)
+![OUTPUT](./image/output.png)
 
 
 ## RESULT:
